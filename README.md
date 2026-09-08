@@ -1,8 +1,8 @@
-# AutoScene Splitter 4K
+# Splitter Autocut 4k
 
 Aplicativo desktop (Windows/macOS/Linux) que detecta automaticamente os cortes de cena em vídeos e exporta cada cena como um arquivo separado, preservando a qualidade máxima (incluindo 4K).
 
-![Tela do AutoScene Splitter 4K](app_splitter.png)
+![Tela do Splitter Autocut 4k](app_splitter.png)
 
 ## Recursos
 
